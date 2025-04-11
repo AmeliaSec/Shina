@@ -3,6 +3,9 @@
 **Shina** is a lightweight, fast, and extensible rule-based detection engine designed for log analysis, anomaly hunting, and embedded detection in SIEM pipelines.  
 It turns simple, human-readable expressions into structured logic trees and evaluates them against raw and parsed logs.
 
+![aliiice_girl_searching_for_threats_9a09819a-87db-4106-a151-424d32fe9365-2](https://github.com/user-attachments/assets/0c67a94b-dfb9-40c2-a4e0-cc6b9b7d38af)
+
+
 > ✨ Inspired by retro cyberpunk vibes. Built for modern threats.
 
 ---
